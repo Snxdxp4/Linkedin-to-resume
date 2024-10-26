@@ -28,7 +28,7 @@ If you'd like to contribute code, please follow these steps:
 
 2. Clone your forked repository to your local machine:
 ```bash
-   git clone https://github.com/yourusername/backend-generator-cli.git
+   git clone https://github.com/yourusername/Linkedin-to-resume.git
 ```
 
 ### Create a New Branch
